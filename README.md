@@ -2,7 +2,7 @@
 
 This fictive project was created to showcase my current skills using Three.js and GSAP. It was inspired by the [tutorial](https://www.youtube.com/watch?v=rxTb9ys834w&t=9266s) created by Andrew Woan based on Bokoko33's [portfolio](https://bokoko33.me/).
 
-**[> View the live demo](https://3dbike.netlify.app/)**
+**[> View the live demo](https://3dyehorbike.netlify.app/)**
 
 
 ## Overview
